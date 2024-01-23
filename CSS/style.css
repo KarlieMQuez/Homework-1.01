@@ -2,7 +2,7 @@ body{
     background-color: darkolivegreen;
 }
 img{
-    width: 50%;   
+    width: 30%;   
     border: 3px solid burlywood;
 } 
 
@@ -17,16 +17,16 @@ img{
 }
 button{
     background-color: #30588D;
-    border: 10px groove #246a7f;
+    border: 10px groove #1f0328;
     padding: 22px 10px 22px 10px;
    
 }
 b{
-    color: #aa81ce;
+    color: #80a7e6;
 }
 h1{
-    color: #31318a;
-    font-family: 'Franklin Gothic Medium';
+    color:  #76A854;
+    font-family: Segoe script;
 }
 .major{
     color:#31318a;
@@ -37,24 +37,39 @@ ul{
     color: #390093;
 }
 ol{
-    font-family: brush script mt;
-    font-size: 30px;
-    color: #5D1D35;
+    font-family: ariel;
+    font-size: 25px;
+    color: #083746;
+
 }
 .books{
-    font-family: arial;
-    color:aliceblue;
+    font-family: papyrus;
+    color: burlywood;
 }
 .movies{
-    font-family: ariel;
-    color: aliceblue;
+    font-family: papyrus;
+    color: burlywood;
 }
 .artists{
-    font-family: ariel;
+    font-family: papyrus;
+    color: burlywood;
+}
+.interest{
+    padding-left: 25px;
+    text-decoration: underline;
+    color: aliceblue;
+
+}
+.fav{
+    padding-left: 25px;
+    text-decoration: underline;
     color: aliceblue;
 }
-h2{
-    text-align: center;
-    text-decoration: underline;
-    color: #CCA77D;
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    color: #76A854;
+}
+li{
+  margin-left:40px;
 }
