@@ -1,0 +1,29 @@
+body{
+    background-color: darkolivegreen;
+}
+img{
+    width: 50%;   
+    border: 3px solid burlywood;
+} 
+
+.sec1{
+    text-align: center;
+}
+
+.container{
+    
+
+}
+button{
+    background-color: #30588D;
+    border: 10px groove #246a7f;
+}
+b{
+    color: #aa81ce;
+}
+h1{
+    color: #31318a;
+}
+.major{
+    color:#31318a;
+}
