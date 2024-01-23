@@ -10,20 +10,51 @@ img{
     text-align: center;
 }
 
-.container{
-    
+.lego{
+    text-align: center;
+
 
 }
 button{
     background-color: #30588D;
     border: 10px groove #246a7f;
+    padding: 22px 10px 22px 10px;
+   
 }
 b{
     color: #aa81ce;
 }
 h1{
     color: #31318a;
+    font-family: 'Franklin Gothic Medium';
 }
 .major{
     color:#31318a;
+}
+ul{
+    font-family:  Helvetica; 
+    font-size: 20px;
+    color: #390093;
+}
+ol{
+    font-family: brush script mt;
+    font-size: 30px;
+    color: #5D1D35;
+}
+.books{
+    font-family: arial;
+    color:aliceblue;
+}
+.movies{
+    font-family: ariel;
+    color: aliceblue;
+}
+.artists{
+    font-family: ariel;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: #CCA77D;
 }
